@@ -1,2 +1,3 @@
-# To create the Resume/CV Design using HTML and CSS
+### Design your Personal CV using HTML, Java Script and CSS (Cascading Style Sheet). Display your CV in Browser
+### Click below link to view...
 ## https://carinoharshit.github.io/SampleCV/
